@@ -10,6 +10,7 @@ public class Jenkins {
 		System.out.println("sum:"+sum);
 		
 		System.out.println("Calculator Stop");
+		System.out.println("new added");
 
 	}
 
